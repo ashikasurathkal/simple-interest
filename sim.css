@@ -1,0 +1,25 @@
+#para{
+border: 5px solid black;
+border-radius: 4px;
+background-color: bisque;
+max-height: fit-content;
+max-width: fit-content;
+padding: 40px;
+}
+button{
+    position: relative;
+    top: 40px;
+    padding: 4px;
+    right: 300px;
+    border: 2px solid rgb(222, 202, 202);
+    color:white;
+    border-radius: 4px;
+    background-color: rgb(108, 116, 117);
+
+}
+
+
+#si{
+    position: relative;
+    top: 35px;
+}
